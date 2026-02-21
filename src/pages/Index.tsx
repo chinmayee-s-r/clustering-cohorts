@@ -32,8 +32,8 @@ export default function Landing() {
       <section className="mx-auto max-w-7xl px-4 pt-20 pb-16 text-center">
         <Badge variant="accent" className="mb-6 text-sm px-4 py-1">Seasonal SME Financing Platform</Badge>
         <h1 className="text-4xl md:text-6xl font-bold leading-tight tracking-tight max-w-4xl mx-auto">
-          Seasonal businesses shouldn't default in the{" "}
-          <span className="text-accent">off-season.</span>
+          Plan for the peak season with{" "}
+          <span className="text-accent">confidence.</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
           CLUSTERING groups seasonal SMEs into lender-ready cohorts, enabling better pricing and
